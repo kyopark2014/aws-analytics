@@ -16,6 +16,16 @@ AWS Glue는 데이터 통합을 쉽게 준비할 수 있도록 시각적 인터�
 
 데이터 분석 또는 Machine Learning에 을 위한 데이터 준비를 위해, 데이터 scientist나 Analysts는 data를 cleaning 하거나 normaliza 하는 작업을 수행하여야 합니다. 이러한 과정은 수주 또는 수개월을 수행하기도 하는데, 80% 시간을 이런 데이터의 data perperation task을 위해 사용하고 있다고 합니다. 이를 위해 clean, combine, pivot, transpose 하는 작업을 Glue가 지원합니다. 
 
+
+## 처리하는 작업 
+
+-- Clean
+. Transform
+. Concatenate
+. Covert to better formats
+. Schedule transformations
+. Event-driven transformations
+
 ## Workshop
 
 [Glue Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/aaaabcab-5e1e-4bff-b604-781a804763e1/en-US)
