@@ -22,7 +22,8 @@ AWS Glue는 데이터 통합을 쉽게 준비할 수 있도록 시각적 인터�
 
 
 ## Reference 
-[amazon.com](https://aws.amazon.com/ko/glue/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
+
+[AWS Glue - 간단하고 확장 가능한 서버리스 데이터 통합](https://aws.amazon.com/ko/glue/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
 
 
 [Introducing AWS Glue DataBrew](https://youtu.be/oAxvd547kMU)
