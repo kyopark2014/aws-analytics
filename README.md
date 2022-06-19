@@ -19,12 +19,12 @@ AWS Glue는 데이터 통합을 쉽게 준비할 수 있도록 시각적 인터�
 
 ## 처리하는 작업 
 
--- Clean
-. Transform
-. Concatenate
-. Covert to better formats
-. Schedule transformations
-. Event-driven transformations
+- Clean
+- Transform
+- Concatenate
+- Covert to better formats
+- Schedule transformations
+- Event-driven transformations
 
 ## Workshop
 
