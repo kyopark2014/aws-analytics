@@ -6,7 +6,6 @@
 
 AWS Glue  is a serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development. AWS Glue provides all the capabilities needed for data integration so that you can start analyzing your data and put it to use in minutes instead of months.
 
-[amazon.com](https://aws.amazon.com/ko/glue/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
 
 AWS Glue는 분석, 기계 학습 및 애플리케이션 개발을 위해 데이터를 쉽게 탐색, 준비, 그리고 조합할 수 있도록 지원하는 서버리스 데이터 통합 서비스입니다. AWS Glue에서는 데이터 통합에 필요한 모든 기능을 제공하므로, 몇 개월이 아니라 몇 분 안에 데이터 분석을 시작하고 해당 내용을 활용할 수 있습니다.
 
@@ -20,5 +19,10 @@ AWS Glue는 데이터 통합을 쉽게 준비할 수 있도록 시각적 인터�
 ## Workshop
 
 [Glue Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/aaaabcab-5e1e-4bff-b604-781a804763e1/en-US)
+
+
+## Reference 
+[amazon.com](https://aws.amazon.com/ko/glue/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
+
 
 [Introducing AWS Glue DataBrew](https://youtu.be/oAxvd547kMU)
