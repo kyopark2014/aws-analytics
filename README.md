@@ -37,3 +37,11 @@ AWS Glue는 데이터 통합을 쉽게 준비할 수 있도록 시각적 인터�
 
 
 [Introducing AWS Glue DataBrew](https://youtu.be/oAxvd547kMU)
+
+
+[Working with AWS Glue Studio - Part 1](https://www.youtube.com/watch?v=KkN8lQ-jr58)
+
+[Working with AWS Glue Studio - Part 2](https://www.youtube.com/watch?v=pnWdkKl2hZw)
+ 
+[Working with AWS Glue Studio - Part3](https://www.youtube.com/watch?v=o7ZoigUcu1M)
+
