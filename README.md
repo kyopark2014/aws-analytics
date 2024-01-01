@@ -17,7 +17,7 @@
 - MapReduce: java로 구현된 어플리케이션, 3단계(Map, Suffle, Reduce)
 - Apache Spark: 배치, 스트림, 머신러닝 워크로드 처리를 위한 프레임워크
 - Apache Impala: 대화형 SQL
-- Apache Hive: SQL Engine
+- Apache Hive: 정형데이터를 HiveQL을 이용해 SQL로 조회, 페이스북에서 개발
 - Apache Flink
 - Apache Sqoop
 - Apache Oozie
