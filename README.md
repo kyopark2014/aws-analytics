@@ -14,7 +14,7 @@
 
 ### 데이터 분석 방법
 
-- MapReduce: java로 구현된 어플리케이션
+- MapReduce: java로 구현된 어플리케이션, 3단계(Map, Suffle, Reduce)
 - Apache Spark: 스트림 처리와 머신러닝 워크로드
 - Apache Impala
 - Apache Hive: SQL Engine
