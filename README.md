@@ -14,7 +14,7 @@
 
 ### 데이터 분석 엔진/프레임워크
 
-- MapReduce
+- MapReduce: java로 구현된 어플리케이션
 - Apache Spark: 스트림 처리와 머신러닝 워크로드
 - Apache Impala
 - Apache Hive: SQL Engine
