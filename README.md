@@ -5,6 +5,9 @@
 ### 파일시스템
 
 - HDFS (Hadoop Distributed File System)
+ - 순차접근(Sequential Access) 방식을 통해 불편 데이터를 저장하는 데 최적화 되어 있음
+ - 데이터를 block 으로 나누어 저장, 128MB (기본)
+ - 여러대의 서버에 replica를 만들어서 resilience(회복성)을 제공
 - Amazon S3: 클라우드 스토리지
 - Azure Data Lake Store: 클라우드 스토리지
 - Apache Kudu: IoT 환경에서 데이터 분석
