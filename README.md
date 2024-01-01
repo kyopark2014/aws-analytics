@@ -1,8 +1,28 @@
-# AWS GLUE
+# AWS Analytics
 
-## Glue란?
+## Analytics Basic
 
+### 파일시스템
 
+- HDFS (Hadoop Distributed File System)
+- Amazon S3: 클라우드 스토리지
+- Azure Data Lake Store: 클라우드 스토리지
+- Apache Kudu: IoT 환경에서 데이터 분석
+
+### 데이터 분석 엔진/프레임워크
+
+- MapReduce
+- Apache Spark: 스트림 처리와 머신러닝 워크로드
+- Apache Impala
+- Apache Hive: SQL Engine
+
+### 데이터 분석 아키텍처의 특징
+
+- 대용량
+- 분산
+- 무공유 (Shared nothing)
+
+## AWS Glue
 
 AWS Glue  is a serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development. AWS Glue provides all the capabilities needed for data integration so that you can start analyzing your data and put it to use in minutes instead of months.
 
