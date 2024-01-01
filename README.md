@@ -12,12 +12,16 @@
 - Azure Data Lake Store: 클라우드 스토리지
 - Apache Kudu: IoT 환경에서 데이터 분석
 
-### 데이터 분석 엔진/프레임워크
+### 데이터 분석 방법
 
 - MapReduce: java로 구현된 어플리케이션
 - Apache Spark: 스트림 처리와 머신러닝 워크로드
 - Apache Impala
 - Apache Hive: SQL Engine
+- Apache Flink
+- Apache Sqoop
+- Apache Oozie
+- Apache Pig
 
 ### 데이터 분석 아키텍처의 특징
 
