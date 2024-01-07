@@ -53,6 +53,30 @@ AWS Glue는 데이터 통합을 쉽게 준비할 수 있도록 시각적 인터�
 - Schedule transformations
 - Event-driven transformations
 
+### Athena vs. Redsifht vs. RDS (Aurora)
+
+#### Athena
+
+- S3에 저장된 데이터를 SQL로 Query
+- Serverless이므로 인프라 리소스를 관리하거나, 데이터를 이동할 필요도 없음
+- 지원 데이터 타입: 정형, 비정형, 반정형
+- 데이터의 탐색적 분석 및 연산적 디버깅
+
+#### Redshift
+
+- Petabyte 단위의 정형 데이터의 처리
+- 미리 정의된 Schema를 가지고 있어야 함
+- 지원 데이터 타입: 정형
+- Redshift 서버리스가 있지만, 기본적으로 Query를 시작하기 전에 클러스터가 구성되어 있어야 함
+- 데이터 수집 및 테이블 생성과 같은 작업이 선행적으로 요구되는 대신, *성능과 확정성*을 제공
+- 계속 업데이트 되는 관계형 데이터를 1초 미만의 지연시간으로 처리하는 경우에 적합
+- 중요한 보고서나 대시보드를 생성
+
+### RDS (Aurora)와 차이
+
+- Athena/Redshift는 읽기 작업이 집중된 분석 워크로드에 최적화된 반면에, RDS(Aurora)는 빠른 쓰기 작업이 포함된 관계형 데이터베이스로 포지셔닝
+  
+
 ## Workshop
 
 [Glue Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/aaaabcab-5e1e-4bff-b604-781a804763e1/en-US)
